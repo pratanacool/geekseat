@@ -57,8 +57,11 @@ if ($yod != '' && $aod != '') {
   }
 
   .td-avg{
-    background-color: blue;
-    color: #fb6868;
+    background-color: #ceced4;
+    color: #615d5d;
+    padding: 20px;
+    font-size: larger;
+    font-weight: bold;
   }
 </style>
 
